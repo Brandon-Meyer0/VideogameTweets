@@ -19,16 +19,16 @@ Multiplayer games rely on playerbase retention to be profitable in the long run,
 # Navigating the Repo
 In this repo you will find the following:
 -	This ReadMe.md file
--	Jupyter Notebook – Contains all relevant code used for our data analysis.
-                   - Data File – Our team used 2 data-files a training set & validation set.
+-	Jupyter Notebook – Contains all relevant code used for our data analysis: Data Files – Our team used 2 data-files a training set & validation set.
 -	PowerPoint.pptx – This is the presentation of our analysis and findings.
 
 # Data Science Steps
 Below is a list of steps that our team took as well as the corresponding description. Since our goal is to predict if a comment on twitter is Positive, Negative or Neutral in order to provide feedback on what to do or what not to do to a game with an update, we'll need to clean our text data sets.
 
-### 1.- Data Gathering and Cleaning
+### 1.- Data EDA & Cleaning
+Team conducted Exploratory Data Analysis on all the source files to identify data entries that are not valuable like duplicated and elements, special characters, emojis and entities. Team used Tokenization, Stemming, Lemmatization techniques to have a fully cleaned dataset.
 -	twitter_training.csv
 -	twitter_validation.csv
-Team conducted Exploratory Data Analysis on all the source files to identify data entries that are not valuable like duplicated and elements, special characters, emojis and entities. Team used Tokenization, Stemming, Lemmatization techniques to have a completed cleaned dataset.
+
 
 ### 2.- Modeling
