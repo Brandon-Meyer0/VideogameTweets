@@ -17,12 +17,11 @@ This is the project repository for the capstone group 5 consisting of:
   
 *Links to each of the team member's repositories.
 ### README Navigation
-* [***Project Overview:***](#Project-Overview) Overview of the Project.
+* [***Project Overview:***](#project-overview) Overview of the Project.
 * [***Navigation Instructions:***](#navigating-the-repo) Guidance for how to navigate the repo.
 * [***Data Science Steps:***](#data-science-steps) Summary of the steps our team took to arrive at our recommendation.
-* [***Business Understanding:***](#Business-Understanding) Business Understanding.
-* [***Data:***](#Data-cleaning-and-preparation) How we used the data.
-* [***Our Model:***](#Our-Model) Overview of our model.
+* [***Business Understanding:***](#business-understanding) Business Understanding.
+* [***Our Model:***](#our-model) Overview of our model.
 
 ### Relevant Files
 
@@ -52,12 +51,6 @@ Team is confident in integrating ML pipeline​s in code in order to improve aut
 
 # Business Understanding
 With exponential growth of the gaming industry, videogame manufacturers face the challenges of continuously adapting and improving their games to meet the ever-changing expectations of millions of users. It is currently unfeasible, costly, and timely to obtain actionable insights as player sentiment is limited to surveys, online forums, and delayed feedback. 
-
-# Data Cleaning and Preparation 
-We used 2 data-files that come from Kaggle a training dataset & validation dataset this datasets were aimed towards on sentiment about video games, in other words if a game has a positive, negative or neutral comment. This data came already labeled.
- 
-Our data went through natural language processing steps given the fact that we'll be working with text. From the process the most important thing we did to prepare the data was cleaning it and removing emojis and entities. This included focusing on tokenization, the removal of stop words, running stemming and lemmatization in our data to compute Term Frequency & Inverse Document Frequency for vectorization of the text.
-
 
 # Our Model
 Our three models we built included: 
