@@ -59,7 +59,3 @@ Our three models we built included:
 - Decision Trees
   
 Leveraging statistically built algorithms and AI we strategically built these models to analyze sentiments on twitter, one of the most popular social media platforms for gamers. By aggregating, processing, and analyzing tweets from gamers related to multiplayer games we want to provide an accurate and real time analysis to developers that will provide exclusive insights, experiences, and opinions of players. This will allow them to obtain knowledge of and react in real time to everchanging demands of their consumers.
-
-
-
-
