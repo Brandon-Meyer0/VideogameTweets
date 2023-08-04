@@ -27,7 +27,7 @@ This is the project repository for the capstone group 5 consisting of:
 ### Relevant Files
 
 * [***Jupyter Notebook:***](TweetSentimentAnalysis.ipynb) Here's the link to our teams Jupyter Notebook. This notebook will walk through our analysis.
-* [***Presentation:***](Group5CapstonePresentation.pptx) Here's the link to our teams presentation. It includes our recommendations and analysis findings.
+* [***Presentation:***](https://github.com/Brandon-Meyer0/VideogameTweets/blob/edb4ab5f70e6259bd4e94cf2f819997f042c266e/Group%205%20Capstone%20Presentation%20.pdf) Here's the link to our teams presentation. It includes our recommendations and analysis findings.
 
 
 # Navigating the Repo
