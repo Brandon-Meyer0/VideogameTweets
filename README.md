@@ -16,29 +16,16 @@ This is the project repository for the capstone group 5 consisting of:
 - [**Patricio Solorio Cabrera**](https://github.com/Brandon-Meyer0/VideogameTweets/tree/patricio)
   
 *Links to each of the team member's repositories.
-
+### README Navigation
+* [***Project Overview:***](#Project-Overview) Overview of the Project.
 * [***Navigation Instructions:***](#navigating-the-repo) Guidance for how to navigate the repo.
 * [***Data Science Steps:***](#data-science-steps) Summary of the steps our team took to arrive at our recommendation.
+* [***Business Understanding:***](#Business-Understanding) Business Understanding.
 
 ### Relevant Files
 
 * [***Jupyter Notebook:***](TweetSentimentAnalysis.ipynb) Here's the link to our teams Jupyter Notebook. This notebook will walk through our analysis.
 * [***Presentation:***](Group5CapstonePresentation.pptx) Here's the link to our teams presentation. It includes our recommendations and analysis findings.
-
-
-
-## Business Understanding
-
-Our key business variable for this study is *profit*; we want to help XYZ in making the correct decision when looking to make improvements and higher quality business decisions. 
-The main questions we will be answering will be:
-
-
-
-
-
-
-
-
 
 
 # Navigating the Repo
@@ -60,3 +47,7 @@ We decided to build our Models targeted to Tweet sentiment: Whether the discours
 
 ### 3.- Implementing Pipelines 
 Team is confident in integrating ML pipeline​s in code in order to improve automation, scalability, efficiency, monitoring, and flexibility​ with the objective of providing in-time feedback to developers​ to work on the game so that with these insights in hand they are able to maintain or obtain new consumers to their product.
+
+
+
+## Business Understanding
