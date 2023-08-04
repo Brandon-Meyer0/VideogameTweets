@@ -50,16 +50,16 @@ We decided to build our Models targeted to Tweet sentiment: Whether the discours
 ### 3.- Implementing Pipelines 
 Team is confident in integrating ML pipeline​s in code in order to improve automation, scalability, efficiency, monitoring, and flexibility​ with the objective of providing in-time feedback to developers​ to work on the game so that with these insights in hand they are able to maintain or obtain new consumers to their product.
 
-## Business Understanding
+# Business Understanding
 With exponential growth of the gaming industry, videogame manufacturers face the challenges of continuously adapting and improving their games to meet the ever-changing expectations of millions of users. It is currently unfeasible, costly, and timely to obtain actionable insights as player sentiment is limited to surveys, online forums, and delayed feedback. 
 
-## Data Cleaning and Preparation 
+# Data Cleaning and Preparation 
 We used 2 data-files that come from Kaggle a training dataset & validation dataset this datasets were aimed towards on sentiment about video games, in other words if a game has a positive, negative or neutral comment. This data came already labeled.
  
 Our data went through natural language processing steps given the fact that we'll be working with text. From the process the most important thing we did to prepare the data was cleaning it and removing emojis and entities. This included focusing on tokenization, the removal of stop words, running stemming and lemmatization in our data to compute Term Frequency & Inverse Document Frequency for vectorization of the text.
 
 
-## Our Model
+# Our Model
 Our three models we built included: 
 - Multiclass Logistical Regression
 - Neural Networks
